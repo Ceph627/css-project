@@ -1,1 +1,1 @@
-# css-project
+The purpose of this project is to practice CSS styles and formatting. Commits and updates will come regularly as I learn and update this repository.
